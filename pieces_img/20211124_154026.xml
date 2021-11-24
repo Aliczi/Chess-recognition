@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pieces_img</folder>
+	<filename>20211124_154026.jpg</filename>
+	<path>C:\Users\milos\Desktop\TFODCourse\pieces_img\20211124_154026.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>527</width>
+		<height>702</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wrook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>267</ymin>
+			<xmax>309</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>

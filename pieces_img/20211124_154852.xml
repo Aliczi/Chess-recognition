@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pieces_img</folder>
+	<filename>20211124_154852.jpg</filename>
+	<path>C:\Users\milos\Desktop\TFODCourse\pieces_img\20211124_154852.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>672</width>
+		<height>897</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wqueen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>217</ymin>
+			<xmax>456</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pieces_img</folder>
+	<filename>IMG_20211124_155714.jpg</filename>
+	<path>C:\Users\milos\Desktop\TFODCourse\pieces_img\IMG_20211124_155714.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>673</width>
+		<height>897</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wknight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>159</ymin>
+			<xmax>597</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+</annotation>

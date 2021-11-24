@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pieces_img</folder>
+	<filename>IMG_20211124_155249.jpg</filename>
+	<path>C:\Users\milos\Desktop\TFODCourse\pieces_img\IMG_20211124_155249.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>673</width>
+		<height>897</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wbishop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>232</ymin>
+			<xmax>566</xmax>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+</annotation>
