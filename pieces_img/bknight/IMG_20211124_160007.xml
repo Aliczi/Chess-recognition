@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bknight</folder>
+	<filename>IMG_20211124_160007.jpg</filename>
+	<path>C:\Users\drz13\image labeling\bknight\IMG_20211124_160007.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>868</width>
+		<height>1156</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bknight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>272</ymin>
+			<xmax>534</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>
