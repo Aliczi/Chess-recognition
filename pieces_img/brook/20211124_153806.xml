@@ -1,0 +1,26 @@
+<annotation>
+	<folder>brook</folder>
+	<filename>20211124_153806.jpg</filename>
+	<path>C:\Users\drz13\image labeling\brook\20211124_153806.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1023</width>
+		<height>1365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>brook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>421</xmin>
+			<ymin>608</ymin>
+			<xmax>736</xmax>
+			<ymax>1055</ymax>
+		</bndbox>
+	</object>
+</annotation>
