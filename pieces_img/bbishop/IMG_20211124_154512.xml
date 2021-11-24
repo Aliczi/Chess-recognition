@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bbishop</folder>
+	<filename>IMG_20211124_154512.jpg</filename>
+	<path>C:\Users\drz13\image labeling\bbishop\IMG_20211124_154512.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>868</width>
+		<height>1156</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bbishop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>118</ymin>
+			<xmax>543</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+</annotation>
