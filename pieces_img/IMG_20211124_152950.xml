@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pieces_img</folder>
+	<filename>IMG_20211124_152950.jpg</filename>
+	<path>C:\Users\milos\Desktop\TFODCourse\pieces_img\IMG_20211124_152950.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>451</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wpawn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>42</ymin>
+			<xmax>364</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>
