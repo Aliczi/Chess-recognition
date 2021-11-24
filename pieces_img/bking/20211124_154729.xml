@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bking</folder>
+	<filename>20211124_154729.jpg</filename>
+	<path>C:\Users\drz13\image labeling\bking\20211124_154729.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1023</width>
+		<height>1365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>443</xmin>
+			<ymin>496</ymin>
+			<xmax>614</xmax>
+			<ymax>970</ymax>
+		</bndbox>
+	</object>
+</annotation>
